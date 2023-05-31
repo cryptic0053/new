@@ -1,0 +1,47 @@
+.navigation-1 h1
+{
+   background-color: balck;
+   display:inline-flex;
+   /* height: 40%; */
+   margin:5px 5px 5px 5px;
+   /* background-color: black; */
+   color:white;
+   
+}
+.navigation-1 h3{
+    display:inline-flex;
+    margin:5px 5px 5px 5px;
+    color:white;
+}
+.navigation-1 input{
+    margin:10px 10px 10px 10px;
+    padding:10px;
+    float:right
+}
+.navigation-1
+{
+    background-color:#123456;
+    height:60px;
+}
+.navigation-2 ol
+{
+    display:inline-flex;
+    margin: 10px 10px 10px 10px;
+    border:500px;
+    text-align:center;
+}
+.navigation-1
+{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.navigation-2
+{
+    font-size: larger;
+    font-family:cursive;
+    /* border-radius: 100px; */
+}
+body{
+    background-image: url('D:/Weather/image.jpeg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
